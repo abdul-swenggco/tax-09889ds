@@ -1,77 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>services.html</loc>
-        <lastmod>2024-01-02</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>1.0</priority>
-    </url><url>
-        <loc>blog.html</loc>
-        <lastmod>2024-01-02</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>1.0</priority>
-    </url><url>
         <loc>index.html</loc>
         <lastmod>2024-01-02</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
     </url><url>
-        <loc>who-can-do-audit-in-usa.html</loc>
+        <loc>stickers-and-emojis.html</loc>
         <lastmod>2024-01-02</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
     </url><url>
-        <loc>what-is-the-best-qualification-for-auditors.html</loc>
+        <loc>filters.html</loc>
         <lastmod>2024-01-02</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
     </url><url>
-        <loc>which-course-is-best-for-auditing.html</loc>
-        <lastmod>2024-01-02</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>1.0</priority>
-    </url><url>
-        <loc>how-do-i-become-an-auditor-in-usa.html</loc>
-        <lastmod>2024-01-02</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>1.0</priority>
-    </url><url>
-        <loc>why-we-learn-tax-rules.html</loc>
-        <lastmod>2024-01-02</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>1.0</priority>
-    </url><url>
-        <loc>why-we-learn-accounting-rules.html</loc>
-        <lastmod>2024-01-02</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>1.0</priority>
-    </url><url>
-        <loc>tax-rules.html</loc>
-        <lastmod>2024-01-02</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>1.0</priority>
-    </url><url>
-        <loc>accounting-rules.html</loc>
-        <lastmod>2024-01-02</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>1.0</priority>
-    </url><url>
-        <loc>united-states.html</loc>
-        <lastmod>2024-01-02</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>1.0</priority>
-    </url><url>
-        <loc>auditing-courses.html</loc>
-        <lastmod>2024-01-02</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>1.0</priority>
-    </url><url>
-        <loc>taxation-courses.html</loc>
-        <lastmod>2024-01-02</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>1.0</priority>
-    </url><url>
-        <loc>accounting-courses.html</loc>
+        <loc>bitmojis.html</loc>
         <lastmod>2024-01-02</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
